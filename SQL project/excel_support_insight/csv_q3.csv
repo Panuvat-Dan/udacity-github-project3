@@ -1,0 +1,20 @@
+Count of ntile,Column Labels,,,,,,,,,Count of Percentile,,,,
+Row Labels,25,50,75,100,(blank),Grand Total,,,Cat,NTILE1,NTILE2,NTILE3,NTILE4,total film
+Action,13,23,10,15,,61,,,Action,13,23,10,15,61
+Animation,19,13,16,16,,64,,,Animation,19,13,16,16,64
+Children,14,11,19,14,,58,,,Children,14,11,19,14,58
+Classics,16,11,10,17,,54,,,Classics,16,11,10,17,54
+Comedy,17,13,15,11,,56,,,Comedy,17,13,15,11,56
+Documentary,17,19,17,10,,63,,,Documentary,17,19,17,10,63
+Drama,13,16,15,17,,61,,,Drama,13,16,15,17,61
+Family,14,15,18,20,,67,,,Family,14,15,18,20,67
+Foreign,11,19,17,20,,67,,,Foreign,11,19,17,20,67
+Games,13,16,11,18,,58,,,Games,13,16,11,18,58
+Horror,15,12,15,11,,53,,,Horror,15,12,15,11,53
+Music,7,16,12,16,,51,,,Music,7,16,12,16,51
+New,19,16,16,9,,60,,,New,19,16,16,9,60
+Sci-Fi,16,14,16,13,,59,,,Sci-Fi,16,14,16,13,59
+Sports,24,16,22,11,,73,,,Sports,24,16,22,11,73
+Travel,12,10,10,21,,53,,,Travel,12,10,10,21,53
+(blank),,,,,,,,,,,,,,
+Grand Total,240,240,239,239,,958,,,,,,,,
