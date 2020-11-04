@@ -14,3 +14,14 @@ Relational database with SQL: ![visualize overview](https://github.com/Panuvat-D
 
 Bikeshare: ![overview](https://video.udacity-data.com/topher/2018/March/5aa7718d_divvy/divvy.jpg)
 
+My favorite hobbies!
+:sunny:
+:earth_asia:
+:soccer:
+:atm:
+:rocket:
+:chart_with_downwards_trend:
+:bath:
+:computer:
+:bangbang:
+
